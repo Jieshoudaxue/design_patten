@@ -1,0 +1,4 @@
+/home/caoyi/study/cmake/step4/install/bin/tutorial
+/home/caoyi/study/cmake/step4/install/include/tutorialconfig.h
+/home/caoyi/study/cmake/step4/install/lib/libmathfunctions.a
+/home/caoyi/study/cmake/step4/install/include/mathfunctions.h
