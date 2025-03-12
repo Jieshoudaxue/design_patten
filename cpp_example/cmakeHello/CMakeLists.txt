@@ -1,0 +1,5 @@
+CMAKE_MINIMUM_REQUIRED(VERSION 2.8)
+SET(CMAKE_CXX_COMPILER "g++")
+PROJECT(hello)
+MESSAGE(STATUS "test project hello world")
+ADD_EXECUTABLE(hello hello.cpp)
