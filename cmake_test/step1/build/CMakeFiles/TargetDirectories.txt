@@ -1,3 +1,0 @@
-/home/caoyi/study/cmake/step1/build/CMakeFiles/rebuild_cache.dir
-/home/caoyi/study/cmake/step1/build/CMakeFiles/edit_cache.dir
-/home/caoyi/study/cmake/step1/build/CMakeFiles/tutorial.dir

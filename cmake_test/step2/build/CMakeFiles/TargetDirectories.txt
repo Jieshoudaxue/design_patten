@@ -1,6 +1,0 @@
-/home/caoyi/study/cmake/step2/build/CMakeFiles/rebuild_cache.dir
-/home/caoyi/study/cmake/step2/build/CMakeFiles/edit_cache.dir
-/home/caoyi/study/cmake/step2/build/CMakeFiles/tutorial.dir
-/home/caoyi/study/cmake/step2/build/mathfunctions/CMakeFiles/rebuild_cache.dir
-/home/caoyi/study/cmake/step2/build/mathfunctions/CMakeFiles/edit_cache.dir
-/home/caoyi/study/cmake/step2/build/mathfunctions/CMakeFiles/mathfunctions.dir
